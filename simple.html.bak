@@ -4,7 +4,6 @@
 	Some silly changes from master branch
 -->
 <head>
-	<title>A Very Respectfull Website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -16,13 +15,13 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- Junk Filler Content  -->
 		<p>
-			Just some content
+			Just nothin' but trouble.
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Git Training 2014</p>
+		<p>&copy; Vanessa Mae Marcos 2014</p>
 	</footer>
 </body>
 </html>
